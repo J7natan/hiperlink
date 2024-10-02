@@ -1,0 +1,33 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+    text-align: left;
+    margin-left: 25%;
+    margin-right: 30%;
+
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+    text-align: left;
+    margin-left: 25%;
+    margin-right: 30%;
+}
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: justify;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 2px solid black;
+    padding: 5px;
+    
+}
